@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitish%20Raj%20J%20M&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20ML%20Enthusiast&descAlignY=60&descSize=17&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1b27,70a5fd&height=200&section=header&text=Nitish%20Raj%20J%20M&fontSize=48&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20ML%20Enthusiast&descAlignY=60&descSize=17&descAlignX=50&fontAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -48,8 +48,7 @@ class NitishRaj:
             "ml_ai"     : ["Scikit-Learn", "TensorFlow",
                            "NLP", "Deep Learning"],
             "databases" : ["MongoDB", "SQLite", "SQL"],
-            "tools"     : ["Git", "Streamlit", "Jupyter",
-                           "VS Code", "PySpark"],
+            "tools"     : ["Git", "Streamlit", "Jupyter", "VS Code"],
         }
 
         self.currently_learning = [
@@ -104,6 +103,7 @@ class NitishRaj:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **— Databases —**
 
@@ -118,8 +118,6 @@ class NitishRaj:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
 </div>
 
 ---
