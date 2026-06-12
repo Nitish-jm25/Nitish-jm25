@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=BTech+AI+%26+Data+Science+%40+Velammal+Engineering;Building+intelligent+systems+from+scratch;Creator+of+Cinesphere+%E2%80%94+AI+%2B+Social+Platform;Final+Year+%7C+Open+to+Jobs%2C+Internships%2C+Research+%26+Collabs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=BTech+AI+%26+Data+Science+%40+VEC+Chennai;Building+intelligent+systems+from+scratch;Creator+of+Cinesphere+%E2%80%94+AI+%2B+Social+Platform;Final+Year+%7C+Open+to+Jobs%2C+Internships+%26+Collabs)](https://git.io/typing-svg)
 
 <br/>
 
@@ -134,14 +134,6 @@ class NitishRaj:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish-jm25&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitish-jm25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 </div>
 
 ---
