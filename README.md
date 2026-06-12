@@ -4,17 +4,20 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%A7%A0+BTech+AI+%26+Data+Science+%40+Velammal+Engineering;%F0%9F%94%A5+Building+intelligent+systems+from+scratch;%F0%9F%8E%AC+Creator+of+Cinesphere+%E2%80%94+AI+%2B+Social+Platform;%F0%9F%9A%80+Open+to+Collabs%2C+Internships+%26+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=BTech+AI+%26+Data+Science+%40+Velammal+Engineering;Building+intelligent+systems+from+scratch;Creator+of+Cinesphere+%E2%80%94+AI+%2B+Social+Platform;Final+Year+%7C+Open+to+Jobs%2C+Internships%2C+Research+%26+Collabs)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Nitish-jm25&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Nitish-jm25)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmnitishraj3325/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmnitishraj@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitish-jm25)
+&nbsp;
+[![Resume](https://img.shields.io/badge/My%20Resume-70a5fd?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/Nitish-jm25/Nitish-jm25/raw/main/Resume_Nitish_Raj_J_M%20(1).pdf)
+
+&nbsp;
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Jobs%20%7C%20Internships%20%7C%20Research-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)
 
 </div>
 
@@ -60,12 +63,8 @@ class NitishRaj:
             "AND a social platform around it 🎬"
         )
 
-    def motto(self) -> str:
-        return (
-            "I don't wait to understand everything "
-            "before I start — I start, and "
-            "understanding follows."
-        )
+    def status(self) -> str:
+        return "Final year — open to Jobs, Internships, Research & Collabs 🚀"
 ```
 
 </td>
@@ -142,7 +141,7 @@ class NitishRaj:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitish-jm25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nitish-jm25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 </div>
 
 ---
@@ -158,6 +157,7 @@ class NitishRaj:
 ### 🎬 Cinesphere
 **AI Movie Recommendation & Social Platform**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://cinisphere-app.vercel.app/)
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nitish-jm25)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -167,7 +167,7 @@ class NitishRaj:
 - 🧠 Content-based filtering + TF-IDF hybrid ranking
 - 💬 Community: posts, comments, messaging, notifications
 - 🔐 Secure auth + TMDB API integration
-- 📄 **Research published — VEC AID Conference 2026**
+- 📄 **Research published — VEC AI & DS Conference 2026**
 
 </td>
 <td width="50%" valign="top">
@@ -263,7 +263,7 @@ class NitishRaj:
 
 |  | Achievement | Details |
 |:---:|:---|:---|
-| 📄 | **Research Publication** | *Cinesphere — ML-based Movie Recommendation & Community Platform* · VEC Dept. of AI & DS Conference · **2026** |
+| 📄 | **Research Publication** | *Cinesphere — ML-based Movie Recommendation & Community Platform* · VEC AI & DS Conference · **2026** |
 | ⚡ | **AIVENTRA Hackathon** | Participated · 24-hour offline sprint · Built multi-modal AI Forensic Triage System with a team |
 | 🎓 | **NPTEL — Python for Data Science** | Certified · **2024** |
 | ☁️ | **NPTEL — Cloud Computing** | Certified · **2026** |
@@ -310,19 +310,40 @@ class NitishRaj:
   </picture>
 </div>
 
-> 💡 **To enable the snake animation:** Go to your profile repo → Actions → enable the workflow, or add `.github/workflows/snake.yml` with the [Platane/snk](https://github.com/Platane/snk) action.
+---
 
 ---
 
+## 📬 Let's Connect
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+### 🌟 I'm actively looking for opportunities!
 
-<br/><br/>
+| I'm open to | Details |
+|:---|:---|
+| 💼 **Full-Time Jobs** | AI / ML Engineer · Data Scientist · Full-Stack Developer · Python Developer |
+| 🎓 **Internships** | AI/ML · Data Science · Backend · Research roles |
+| 🔬 **Research** | ML, NLP, LLM-related research collaborations |
+| 🤝 **Collaborations** | Open-source projects · Hackathons · Side projects |
 
-*"I don't wait to understand everything before I start — I start, and understanding follows."*
+<br/>
 
-**— Nitish Raj J M**
+**📩 Reach out — I respond within 24 hours**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmnitishraj3325/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmnitishraj@gmail.com)
+
+</div>
+
+<div align="center">
+
+<br/>
+
+> *"The people who are crazy enough to think they can change the world are the ones who do."*
+> 
+> **— Steve Jobs**
 
 <br/>
 
@@ -331,6 +352,8 @@ class NitishRaj:
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmnitishraj@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitish-jm25)
+&nbsp;
+[![Resume](https://img.shields.io/badge/My%20Resume-70a5fd?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/Nitish-jm25/Nitish-jm25/raw/main/Resume_Nitish_Raj_J_M%20(1).pdf)
 
 <br/>
 
