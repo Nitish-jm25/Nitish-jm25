@@ -1,5 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1b27,70a5fd&height=200&section=header&text=Nitish%20Raj%20J%20M&fontSize=48&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20ML%20Enthusiast&descAlignY=60&descSize=17&descAlignX=50&fontAlign=50" width="100%"/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2500&pause=800&color=70A5FD&center=true&vCenter=true&width=600&height=60&lines=Nitish+Raj+J+M" alt="Nitish Raj J M"/>
+</h1>
+
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Data+Science+%E2%80%A2+Full-Stack+Builder+%E2%80%A2+ML+Enthusiast" alt="subtitle"/>
+</h3>
+
 </div>
 
 <div align="center">
@@ -348,5 +356,3 @@ class NitishRaj:
 <br/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
