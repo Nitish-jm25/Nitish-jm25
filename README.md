@@ -46,7 +46,7 @@ class NitishRaj:
         self.location = "Chennai, Tamil Nadu 🇮🇳"
         self.degree   = "BTech — AI & Data Science"
         self.college  = "Velammal Engineering College"
-        self.cgpa     = 8.3
+        self.cgpa     = 8.17
         self.year     = "2023 → 2027"
 
         self.stack = {
@@ -277,7 +277,7 @@ class NitishRaj:
 
 | Degree | Institution | Duration | CGPA |
 |:------|:-----------|:--------:|:----:|
-| 🎓 **BTech — Artificial Intelligence & Data Science** | Velammal Engineering College, Chennai | 2023 – 2027 | **8.3** |
+| 🎓 **BTech — Artificial Intelligence & Data Science** | Velammal Engineering College, Chennai | 2023 – 2027 | **8.17** |
 
 </div>
 
