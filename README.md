@@ -50,12 +50,12 @@ class NitishRaj:
         self.year     = "2023 → 2027"
 
         self.stack = {
-            "languages" : ["Python", "Java", "JavaScript"],
+            "languages" : ["Python", "JavaScript"],
             "frontend"  : ["React.js", "HTML", "CSS", "Tailwind"],
             "backend"   : ["FastAPI"],
             "ml_ai"     : ["Scikit-Learn", "TensorFlow",
-                           "NLP", "Deep Learning"],
-            "databases" : ["MongoDB", "SQLite", "SQL"],
+                           "Deep Learning"],
+            "databases" : ["MongoDB", "SQL"],
             "tools"     : ["Git", "Streamlit", "Jupyter", "VS Code"],
         }
 
